@@ -1,2 +1,2 @@
 # package
-numpy, pandas, sklearn
+numpy, pandas, sklearn, xgboost
